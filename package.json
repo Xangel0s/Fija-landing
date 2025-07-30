@@ -1,0 +1,26 @@
+{
+  "name": "landingpageclaro-fibramain",
+  "version": "1.0.0",
+  "description": "Landing page para Claro Fibra",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -o",
+    "start": "npx http-server -p 3000 -o",
+    "serve": "npx http-server -p 3000",
+    "build": "echo 'No build step required for static site'",
+    "preview": "npx http-server -p 3000 -o"
+  },
+  "keywords": [
+    "landing-page",
+    "claro",
+    "fibra",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+} 
